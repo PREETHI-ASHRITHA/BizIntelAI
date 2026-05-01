@@ -130,5 +130,5 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 ```bash
 
-Sruthi Tamaraana
+Preethi Ashritha Gunnam
 ```
